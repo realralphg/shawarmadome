@@ -1,0 +1,169 @@
+
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;    
+}
+
+.title {
+    font-size: 40px;
+}
+
+.links > a {
+    color: white;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    background: black;
+}
+.wrapper{
+    max-width: 1140px;
+    padding: 10px;
+    margin: 20px auto;
+}
+
+.create-shawarma{
+    background: grey;
+    padding: 20px;
+    color: white;
+}
+
+label, select{
+    display: block;
+}
+
+label{
+    padding-top: 30px;
+}
+
+select{
+    padding: 8px;
+    width: 200px;
+}
+
+input[type=text]{
+    padding: 8px;
+    width: 180px;
+}
+
+input[type=submit]{
+    background: yellowgreen;
+    padding: 10px 20px;
+    color: white;
+    border: 0px;
+    margin-top: 20px;
+}
+
+.shawarma-details{
+    background: grey;
+    padding: 20px;
+    color: white;
+}
+
+.shawarma-details-items{    
+    margin-left: 30px 0;
+    padding: 20px;
+    background-color: yellowgreen;
+    color: rgb(88, 88, 88);
+}
+
+.shawarma-details p{    
+    border-bottom: 1px solid whitesmoke;
+    padding: 10px;
+}
+
+.back{
+    display: block;
+    color: whitesmoke;
+    margin-top: 40px;
+    text-decoration: none;
+}
+
+.shawarma-details button{    
+    background: yellowgreen;
+    padding: 10px 10px;
+    color: white;
+    border: 0px;
+    margin-top: 20px; 
+    cursor: pointer;   
+}
+
+.shawarma-index{
+    background: grey;
+    padding: 20px;
+    color: white;   
+    margin-top: 0; 
+}
+
+.shawarma-index-items{
+    margin: 20px 0;
+    padding: 20px; 
+    background-color: yellowgreen;
+    font-size: large;   
+}
+
+.shawarma-index img{
+    width: 60px;
+    display: inline-block;
+}
+
+.shawarma-index a{
+    color: rgb(88, 88, 88);
+    text-decoration: none !important;
+}
+
+.welcome{
+    background: grey;
+    padding: 20px;
+    color: white;
+}
+
+.welcome img{
+    margin-top: 30px;
+    height: auto;
+    width: 300px;
+}
+
+.welcome-content{
+    text-align: center;
+}
+
+.welcome-content a{
+    margin: 20px 0;
+    padding: 10px; 
+    background-color: yellowgreen;
+    text-decoration: none;
+    border-radius: 20px 20px;
+    color: rgb(88, 88, 88);;
+}
+
+.home-link{
+    margin: 20px 0;
+    padding: 10px; 
+    background-color: yellowgreen;
+    text-decoration: none;
+    border-radius: 20px 20px;
+    color: rgb(88, 88, 88);
+    text-align: center;
+}
